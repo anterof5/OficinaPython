@@ -12,6 +12,7 @@ instance/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+Aula 02/funcoes/*.pyc
 *$py.class
 
 # C extensions
